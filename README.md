@@ -13,6 +13,8 @@ I'm Uditha Jayalath, a passionate computer engineering undergraduate from Sri La
 <!-- [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) -->
 [![Linkedin Badge](https://img.shields.io/badge/-udithajayalath-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/udithajayalath/) 
 [![Mail Badge](https://img.shields.io/badge/-udithapj-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:udithapj@gmail.com)
+[![LeetCode Badge](https://img.shields.io/badge/-Uditha_PJ-FFA116?style=flat&labelColor=FFA116&logo=leetcode&logoColor=white)](https://leetcode.com/Uditha_PJ/)
+[![Stack Overflow Badge](https://img.shields.io/badge/-22578404-F58025?style=flat&labelColor=F58025&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22578404)
 
 
 <!-- TODO: Add last video link -->
