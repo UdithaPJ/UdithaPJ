@@ -46,9 +46,9 @@ I'm Uditha Jayalath, a passionate computer engineering undergraduate from Sri La
 
 
 
-<!-- #### Profile Visits 
+#### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=UdithaPJ.UdithaPJ) -->
+![Visits](https://img.shields.io/badge/Visits-19827-blue)
 
 <details>
 <summary>
