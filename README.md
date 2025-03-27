@@ -34,12 +34,16 @@ I'm Uditha Jayalath, a passionate computer engineering undergraduate from Sri La
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=FFD43B)](#)
 [![Dart Badge](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&labelColor=black&logo=dart&logoColor=0175C2)](#)
 [![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&labelColor=black&logo=flutter&logoColor=02569B)](#)
+[![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F7DF1E)](#)
+[![TypeScript Badge](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#)
+[![React Badge](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DAFB)](#)
+[![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#)
+[![AWS Badge](https://img.shields.io/badge/-AWS-FF9900?style=for-the-badge&labelColor=black&logo=amazon-aws&logoColor=FF9900)](#)
 [![GCP Badge](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&labelColor=black&logo=google-cloud&logoColor=4285F4)](#)
 [![Firebase Badge](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&labelColor=black&logo=firebase&logoColor=FFCA28)](#)
 [![Figma Badge](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#)
 [![Linux Badge](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
-
 
 <!-- #### CV
 - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/Islem%20Maboud%20Resume%20v2.0.pdf) -->
